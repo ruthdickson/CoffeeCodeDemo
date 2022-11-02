@@ -6,3 +6,9 @@ Cat information:
   * long boi
   * 13.5lbs
  
+Dog information:
+Pip - Jackshund
+* 4.5 years old
+* 5.5kg
+* very short
+* absolutely frickin' mental
